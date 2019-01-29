@@ -1,0 +1,40 @@
+h1{
+	font-size: 70px;
+}
+h4{
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+span{
+	font-size: 25px;
+}
+.clearfix{
+	list-style-type: none;
+}
+.resume{
+	background-color: #D0D0D0;
+	text-align: center;
+	color: white;
+}
+img{
+	border-radius: 20px;
+}
+.name{
+	font-size:70px;
+}
+.position{
+	font-size:40px;	
+}
+section{
+	margin-top: 30px;
+	border-radius: 10px;
+	background-color: #F1F3F3;
+	padding:30px;
+}
+.inside p{
+	font-size: 15px;
+	border-radius: 7px;
+	background-color: #B3D7E8;
+	float: left;
+	padding: 5px;
+}
