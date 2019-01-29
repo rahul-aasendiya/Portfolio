@@ -25,11 +25,8 @@ img{
 .position{
 	font-size:40px;	
 }
-section{
-	margin-top: 30px;
-	border-radius: 10px;
+body{
 	background-color: #F1F3F3;
-	padding:30px;
 }
 .inside p{
 	font-size: 15px;
