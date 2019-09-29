@@ -1,0 +1,21 @@
+.clearfix{
+	list-style-type: none;
+}
+.resume{
+	background-color: #D0D0D0;
+	text-align: center;
+	color: white;
+}
+img{
+	border-radius: 5px;
+}
+body{
+	background-color: #F1F3F3;
+}
+.inside p{
+	font-size: 15px;
+	border-radius: 7px;
+	background-color: #B3D7E8;
+	float: left;
+	padding: 5px;
+}
